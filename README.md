@@ -4,9 +4,6 @@ An enterprise-grade, serverless AI platform that monitors real-time public senti
 
 ![NammaOoru Dashboard](screenshot.png)
 
-
-![NammaOoru Dashboard](screenshot2.png)
-
 ## 🚀 Architecture: What we built
 
 To make this platform incredibly fast, free, and deployable within minutes, we used a **Live Serverless GenAI Architecture**.
