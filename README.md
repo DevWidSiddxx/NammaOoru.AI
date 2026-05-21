@@ -14,10 +14,10 @@ To make this platform incredibly fast, free, and deployable within minutes, we u
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js (Vite)
-- **Styling:** TailwindCSS v4 + Lucide Icons (Minimal Black & White "SaaS" Aesthetic)
+- **Styling:** TailwindCSS v4 + Lucide Icons
 - **Charting:** Recharts
-- **AI Engine:** Groq API (LLaMA-3.1 8B Instant) - *100% Free Tier*
-- **Data Source:** Google News RSS -> RSS2JSON Proxy
+- **AI Engine:** Groq API (LLaMA-3.1 8B Instant)
+- **Data Source:** Google News
 
 ## 💻 How to Run Locally
 
@@ -36,5 +36,7 @@ To make this platform incredibly fast, free, and deployable within minutes, we u
    ```bash
    npm run dev
    ```
-Bulit by: Siddharth Venkatesh
 5. Open `http://localhost:5173` in your browser.
+
+
+Bulit by: Siddharth Venkatesh
