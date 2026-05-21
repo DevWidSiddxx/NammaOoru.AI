@@ -1,4 +1,4 @@
-# NammaOoru.AI (Formerly GovPulse)
+# NammaOoru.AI
 
 An enterprise-grade, serverless AI platform that monitors real-time public sentiment, government-related discussions, and district intelligence across Tamil Nadu.
 
