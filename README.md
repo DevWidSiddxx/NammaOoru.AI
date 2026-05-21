@@ -3,6 +3,8 @@
 An enterprise-grade, serverless AI platform that monitors real-time public sentiment, government-related discussions, and district intelligence across Tamil Nadu.
 
 ![NammaOoru Dashboard](screenshot.png)
+
+
 ![NammaOoru Dashboard](screenshot2.png)
 
 ## 🚀 Architecture: What we built
